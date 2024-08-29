@@ -2,7 +2,7 @@
   "name": "assignment02",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ThangMai81.github.io/TheMovieDB.github.io",
+  "homepage": "https://ThangMai81.github.io/TheMovieDB",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
